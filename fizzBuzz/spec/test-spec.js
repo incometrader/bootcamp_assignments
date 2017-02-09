@@ -1,5 +1,5 @@
 var jasmine = require("jasmine");
-var fizzBuzz = require("../src/fizzbuzz");
+var fizzBuzz = require("../src/fizzbuzzfunction");
 
 describe("Fizz Buzz tests ", function() {
 
