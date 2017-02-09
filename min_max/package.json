@@ -2,12 +2,25 @@
   "name": "min_max",
   "version": "1.0.0",
   "description": "Function to find minimum and maximum elements of an array including jasmine tests",
-  "main": "index.js",
+  "main": "src/minMax",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
-  "author": "Ignatius Ukwuoma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/incometrader/bootcamp_assignments.git"
+  },
+  "keywords": [
+    "minimum",
+    "maximum",
+    "array"
+  ],
+  "author": "ignatius ukwuoma",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incometrader/bootcamp_assignments/issues"
+  },
+  "homepage": "https://github.com/incometrader/bootcamp_assignments#readme",
   "devDependencies": {
     "jasmine": "^2.5.3"
   }
