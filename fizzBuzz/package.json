@@ -1,13 +1,24 @@
 {
-  "name": "fizzbuzz",
+  "name": "fizz-buzz",
   "version": "1.0.0",
   "description": "fizzBuzz function with jasmine test",
-  "main": "index.js",
+  "main": "src/fizzbuzz",
   "scripts": {
-    "test": "jasmine spec/test-spec.js"
+    "test": "jasmine"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/incometrader/bootcamp_assignments.git"
+  },
+  "keywords": [
+    "fizzbuzz"
+  ],
   "author": "Ignatius Ukwuoma",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incometrader/bootcamp_assignments/issues"
+  },
+  "homepage": "https://github.com/incometrader/bootcamp_assignments#readme",
   "devDependencies": {
     "jasmine": "^2.5.3"
   }
