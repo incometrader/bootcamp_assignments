@@ -1,3 +1,6 @@
+var jasmine = require("jasmine");
+var aritGeo = require("../src/aritgeo");
+
 (function(){
   'use strict';
 
