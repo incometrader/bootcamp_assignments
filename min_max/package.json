@@ -1,0 +1,14 @@
+{
+  "name": "min_max",
+  "version": "1.0.0",
+  "description": "Function to find minimum and maximum elements of an array including jasmine tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignatius Ukwuoma",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
