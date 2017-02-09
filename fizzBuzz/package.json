@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzBuzz function with jasmine test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/test-spec.js"
+  },
+  "author": "Ignatius Ukwuoma",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}

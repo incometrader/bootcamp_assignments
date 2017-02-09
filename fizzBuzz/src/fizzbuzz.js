@@ -10,4 +10,4 @@ function fizzBuzz(num) {
   	}
   }
 
-module.exports = fizzBuzz();
+module.exports = fizzBuzz;
